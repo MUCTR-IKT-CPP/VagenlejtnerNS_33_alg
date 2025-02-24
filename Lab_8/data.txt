@@ -1,0 +1,15 @@
+Running tests for N=1000
+MinHeap - Insert: 0.000045, Search: 0.000000, Remove: 0.000000
+BinomialHeap - Insert: 0.000010, Remove: 0.000000
+Running tests for N=10000
+MinHeap - Insert: 0.000395, Search: 0.000000, Remove: 0.000000
+BinomialHeap - Insert: 0.000041, Remove: 0.000000
+Running tests for N=100000
+MinHeap - Insert: 0.003726, Search: 0.000000, Remove: 0.000000
+BinomialHeap - Insert: 0.000449, Remove: 0.000000
+Running tests for N=1000000
+MinHeap - Insert: 0.035988, Search: 0.000000, Remove: 0.000001
+BinomialHeap - Insert: 0.002546, Remove: 0.000000
+Running tests for N=10000000
+MinHeap - Insert: 0.339064, Search: 0.000000, Remove: 0.000001
+BinomialHeap - Insert: 0.028537, Remove: 0.000000
